@@ -1,0 +1,11 @@
+1.Bluetooth module
+2.Motor 4
+3.4 wheels
+4.arduino x 2
+5.servo motor
+6.wires
+7.L298 motor driver
+8.Battery holder
+9.9v battery
+10.glue gun
+11.bucket
